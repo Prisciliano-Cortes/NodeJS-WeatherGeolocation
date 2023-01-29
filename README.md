@@ -1,2 +1,2 @@
-# NodeJS-Clima Geolocalización
-Aplicación de consola interactiva - consulta de clima y búsquedas
+# NodeJS-Weather Geolocation
+Interactive console application - weather query and searches
